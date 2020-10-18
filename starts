@@ -1,0 +1,3 @@
+Web: yarn start
+BackEnd: yarn dev
+Mobile: expo start and open the expo app in cellphone
